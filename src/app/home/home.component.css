@@ -1,0 +1,37 @@
+#addButton {
+    margin-top: 10px;
+}
+
+.leads_table {
+    margin-top: 10px
+}
+
+.update_lead_modal_button{
+    margin-right: 10px;
+}
+
+.ng-valid[required], .ng-valid.required  {
+    border: 1px solid #42A948;
+}
+  
+input.ng-dirty.ng-invalid {
+    border: 1px solid #a94442;
+}
+
+input.ng-touched.ng-invalid {
+    border: 1px solid #a94442;
+}
+
+.required
+{
+    color: red;
+    margin-left: 5px;
+}
+
+#markUpdateButton{
+    margin-left: 20px;
+}
+
+#deleteUpdateButton{
+    margin-left: 10px;
+}
